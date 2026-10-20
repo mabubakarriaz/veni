@@ -17,3 +17,10 @@ This project will follow the project management techniques outlined by the proje
 - Leadership style will be servant leadership. The project manager will be the one to serve the team and make sure that the team is motivated and productive.
 - Add all the 6 PM priciples to the project management plan.
 - Add phase reviews in the project.
+
+
+## Project Documents
+
+The project docs are available in /docs/pmi folder. One file is blank and other is filled. the filled one is a sample file with example of the dummy project called Marys consulting. This project has nothing to do with the veni project. and only exists to show how the project documents should be filled. The blank file is the one to be filled for the veni project. The project manager will be the one to fill the project documents and make sure that they are up to date.
+
+- AI will be used to fill the documents. 
